@@ -6,7 +6,7 @@ This project consists of two parts:
 ## Part One:
 You will need to follow the Lambda School Git Workflow to add a file to this project follow the steps below:
 
-- [ ] Create your own version of this repo - Fork
+- [x] Create your own version of this repo - Fork
 - [ ] Add your TL as a collaborator
 - [ ] Clone this repo
 - [ ] Create a branch `git checkout -b 'firstName-lastName'`
@@ -16,6 +16,7 @@ You will need to follow the Lambda School Git Workflow to add a file to this pro
   - [ ] Use your own student fork as the base (compare across forks, base-fork -> master).
   - [ ] Add your TL as a reviewer on the Pull-Request
 - [ ] TL then will count the Assignment as done by merging the HW back into master "STUDENT FORK".
+-
 
 ## Part Two:
 1. fork this codepen https://codepen.io/BritHemming/pen/eYYEoPa?editors=1100
