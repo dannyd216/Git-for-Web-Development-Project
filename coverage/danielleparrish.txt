@@ -1,6 +1,9 @@
 // Sweet Eats Bakery Markup Link
 // https://codepen.io/dannyd216/pen/rNaKMmY
 
+//CORRECT MARKUP OF section
+https://codepen.io/dannyd216/pen/vYOdKmX
+
 
     1. What is Semantic HTML? 
     semantic HTML is using tags that express meaning and give your site readability
